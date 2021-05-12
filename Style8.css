@@ -233,7 +233,7 @@ body {
   top: -26px;
   background: #4a3c87;
   height: 80px;
-  width: fit-content;
+  width: 100%;
 }
 
 .blackbar5 {
@@ -275,7 +275,7 @@ body {
   top: -420px;
   background: #4a3c87;
   height: 80px;
-  width: fit-content;
+  width: 100%;
 }
 .end1 {
   background-size: cover;
